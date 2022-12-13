@@ -5,4 +5,7 @@
 - [Bài 3 nhập điểm của một học sinh](https://www.jdoodle.com/embed/v0/5AxX)
 - [Bài 4 nhập 2 số a và b bất kì](https://www.jdoodle.com/embed/v0/5B2U)
 ## Bài tập lập trình
-
+- [Bài 1 số lớn nhất và nhỏ nhất trong 3 số thực a, b, c](https://www.jdoodle.com/embed/v0/5B3d)
+- [Bài 2 nhập vào 2 số thực. Kiểm tra xem chúng có cùng dấu hay không](https://www.jdoodle.com/embed/v0/5B39)
+- [Bài 3  Viết chương trình giải và biện luận phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5B49)
+- [Bài 4 Nhập vào tháng của một năm. Cho biết tháng thuộc quí mấy trong năm](https://www.jdoodle.com/embed/v0/5B4a)
